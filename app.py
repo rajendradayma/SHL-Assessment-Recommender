@@ -15,11 +15,6 @@ import streamlit as st
 from sentence_transformers import SentenceTransformer
 
 
-
-app
-
-
-
 # SHL Assessment Recommendation Engine using RAG (Retrieval Augmented Generation)
 # Streamlit frontend with SentenceTransformer + FAISS backend (Colab-compatible)
 
