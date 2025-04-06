@@ -1,0 +1,5 @@
+faiss-cpu
+numpy==1.23.5
+pandas
+streamlit
+scikit-learn
