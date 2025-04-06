@@ -86,7 +86,7 @@ class SHLRecommender:
         results = self.df.iloc[indices[0]].to_dict(orient="records")
         return results
 
-recommender = SHLRecommender("/content/shl_catalog_detailed.csv")
+recommender = SHLRecommender("shl_catalog_detailed.csv")
 
 st.set_page_config(page_title="SHL Assessment Recommender", layout="wide")
 st.title("🔍 SHL Assessment Recommender")
