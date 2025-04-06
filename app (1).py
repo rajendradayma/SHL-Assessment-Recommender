@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Iil6LfPAEaFS46mhwAHHehCGgYZ3HXYq
 """
 
-!pip install faiss-cpu
-
-!pip install streamlit # Corrected the typo in the package name
+# Corrected the typo in the package name
 
 import pandas as pd
 import faiss
@@ -18,7 +16,7 @@ from sentence_transformers import SentenceTransformer
 
 
 
-!pip install pyngrok # Install the pyngrok package
+# Install the pyngrok package
 
 # SHL Assessment Recommendation Engine using RAG (Retrieval Augmented Generation)
 # Streamlit frontend with SentenceTransformer + FAISS backend (Colab-compatible)
