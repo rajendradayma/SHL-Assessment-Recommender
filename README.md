@@ -43,3 +43,25 @@ git clone https://github.com/yourusername/SHL-Assessment-Recommender.git
 cd SHL-Assessment-Recommender
 pip install -r requirements.txt
 streamlit run app.py
+
+POST /recommend
+{
+  "query": "We need a test for leadership and decision-making"
+}
+
+Response:
+[
+  {
+    "assessment": "Situational Judgement Test",
+    "score": 0.89,
+    "link": "https://example.com/assessment"
+  }
+]
+
+
+├── app.py
+├── shl_catalog_detailed.csv
+├── README.md
+├── requirements.txt
+└── architecture.png
+
