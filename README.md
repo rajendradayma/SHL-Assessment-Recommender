@@ -22,8 +22,7 @@ Given a dataset of SHL assessments, build an intelligent system that recommends 
 
 ## 📊 Architecture
 
-![System Architecture]("C:\Users\User\Downloads\shl architecture.png")
-
+![System Architecture]("[C:\Users\User\Downloads\shl architecture.png](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-a2cc-51f7-9314-aaa5f724252d/raw?se=2025-04-07T11%3A37%3A26Z&sp=r&sv=2024-08-04&sr=b&scid=0edb7c57-ec15-5cae-9044-a119b5cf8a38&skoid=7c382de0-129f-486b-9922-6e4a89c6eb7d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-06T12%3A41%3A32Z&ske=2025-04-07T12%3A41%3A32Z&sks=b&skv=2024-08-04&sig=RJuWIcGfSt8DA/1XPQzPvGC1wVxQzX%2BrypDEMLJMxZg%3D)")
 ---
 
 
