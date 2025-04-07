@@ -22,7 +22,7 @@ Given a dataset of SHL assessments, build an intelligent system that recommends 
 
 ## 📊 Architecture
 
-![System Architecture](/path/to/your/image.png)
+![System Architecture]("C:\Users\User\Downloads\shl architecture.png")
 
 ---
 
