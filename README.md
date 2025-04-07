@@ -25,14 +25,7 @@ Given a dataset of SHL assessments, build an intelligent system that recommends 
 ![System Architecture](/path/to/your/image.png)
 
 ---
-Project Demo
 
-You can watch the demo video below or [download it directly]("G:\Download windows c in 20203\Videos\Captures\screen recorder for windows 11 - Search and 20 more pages - Personal - Microsoft​ Edge Beta 2024-02-13 02-14-50.mp4").
-
-<video width="100%" height="auto" controls>
-  <source src="./demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## 🚀 Features
 
