@@ -5,5 +5,4 @@ streamlit
 scikit-learn
 sentence-transformers
 pyngrok
-
-
+torch==2.0.1
