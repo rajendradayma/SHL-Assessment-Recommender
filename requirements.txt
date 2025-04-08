@@ -1,5 +1,5 @@
 faiss-cpu
-numpy==1.23.5
+numpy>=1.25.0
 pandas
 streamlit
 scikit-learn
