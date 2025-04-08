@@ -4,4 +4,6 @@ pandas
 streamlit
 scikit-learn
 sentence-transformers
+pyngrok
+
 
